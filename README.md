@@ -1,4 +1,4 @@
-This package is just a fork of the work of brentvatne: https://github.com/brentvatne/fixed-height-windowed-list-view-experiment
+This package is just a fork of the work of rgovindji: https://github.com/rgovindji/react-native-atoz-list. It was forked to fix this issue: https://github.com/rgovindji/react-native-atoz-list/issues/33
 
 I fixed some issues with the scrolling not working correctly and exposed the main listview component as AtoZList.
 The scroll performance is great for large lists which is why I switched to using brentvatne's implementation.
